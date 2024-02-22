@@ -1,3 +1,17 @@
+# Dronecon pages and organization: 
+
+- Main page and interest form: [https://dronewa.rs/interest/](https://dronewa.rs/interest/)
+- Vision page (IL4 access only): [https://vision.il4.afwerx.dso.mil/initiatives/3795](https://vision.il4.afwerx.dso.mil/initiatives/3795) 
+  - Instructions on accessing Vision: [https://github.com/orgs/Dronewa-rs/discussions/1](https://github.com/orgs/Dronewa-rs/discussions/1)
+- [https://github.com/orgs/Dronewa-rs/discussions](https://github.com/orgs/Dronewa-rs/discussions)
+- Files: [https://github.com/Dronewa-rs/File-repository](https://github.com/Dronewa-rs/File-repository)
+  - Wiki: [https://github.com/Dronewa-rs/File-repository/wiki/](https://github.com/Dronewa-rs/File-repository/wiki/)
+  - Discussions: [https://github.com/orgs/Dronewa-rs/discussions](https://github.com/orgs/Dronewa-rs/discussions)
+- Dronecon project management:
+  - Roadmap: [https://github.com/orgs/Dronewa-rs/projects/1/views/1](https://github.com/orgs/Dronewa-rs/projects/1/views/1)
+  - Ideas and bug fixes: [https://github.com/orgs/Dronewa-rs/projects/3/views/1](https://github.com/orgs/Dronewa-rs/projects/3/views/1)
+  - Issue spotter / bug tracker: [https://github.com/orgs/Dronewa-rs/projects/3/views/1](https://github.com/orgs/Dronewa-rs/projects/3/views/1) 
+
 # Drone Resources
 
 This repo has files related to the Dronecon Hackathon. 
