@@ -9,7 +9,7 @@
   - Discussions: [https://github.com/orgs/Dronewa-rs/discussions](https://github.com/orgs/Dronewa-rs/discussions)
 - Dronecon project management:
   - Roadmap: [https://github.com/orgs/Dronewa-rs/projects/1/views/1](https://github.com/orgs/Dronewa-rs/projects/1/views/1)
-  - Ideas and bug fixes: [https://github.com/orgs/Dronewa-rs/projects/3/views/1](https://github.com/orgs/Dronewa-rs/projects/3/views/1)
+  - Ideas and bug fixes: [https://github.com/orgs/Dronewa-rs/projects/3/views/1](https://github.com/orgs/Dronewa-rs/projects/2/views/1)
   - Issue spotter / bug tracker: [https://github.com/orgs/Dronewa-rs/projects/3/views/1](https://github.com/orgs/Dronewa-rs/projects/3/views/1) 
 
 # Drone Resources
